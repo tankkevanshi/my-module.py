@@ -1,4 +1,4 @@
-vidieo explain == https://drive.google.com/drive/folders/1RZULUcetTfcCRTvxCNiX0z44yJ2rvdaD?usp=drive_link
+vidieo explain == https://drive.google.com/file/d/1CLIFNrGTfchjpP-Syxkvt6AT5tAKe9o6/view?usp=sharing
 
 # my-module.py
 
